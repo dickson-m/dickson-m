@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dickson-m
-- 👀 I’m interested in writing lines of code, to solve problems.
+- 👀 I’m interested in writing lines of code, in whichever the language or framework just to solve problems. World problems. 
 - 🌱 I’m currently learning Laravel & VueJS.
 - 💞️ I’m looking foward to collaborating with smart fellas on big projects.
 - 📫 Get me a mail here; makulia.dickson@gmail.com
